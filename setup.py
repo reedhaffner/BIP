@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-    name='BIP',
+    name='BIPTools',
 
     version='1.0',
 
