@@ -8,7 +8,7 @@ setuptools.setup(
 
     name='BIPTools',
 
-    version='1.0',
+    version='1.0rc1',
 
     scripts=['bip.py'],
 
@@ -20,6 +20,8 @@ setuptools.setup(
 
     long_description=long_description,
 
+    long_description_content_type="text/markdown",
+
     url="https://github.com/reedhaffner/BIP",
 
     packages=setuptools.find_packages(),
@@ -27,8 +29,6 @@ setuptools.setup(
     classifiers=[
 
         "Programming Language :: Python :: 3",
-
-        "License :: OSI Approved :: GPLv3 License",
 
         "Operating System :: OS Independent",
 
