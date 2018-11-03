@@ -1,4 +1,4 @@
-# BIP [![Build Status](https://travis-ci.org/reedhaffner/BIP.svg?branch=master)](https://travis-ci.org/reedhaffner/BIP)
+# BIP [![Build Status](https://travis-ci.org/reedhaffner/BIP.svg?branch=master)](https://travis-ci.org/reedhaffner/BIP) [![PyPI](https://img.shields.io/pypi/v/BIPTools.svg)](https://pypi.org/project/BIPTools/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/BIPTools.svg)](https://pypi.org/project/BIPTools/)
 
 Binary Inside Picture
 
