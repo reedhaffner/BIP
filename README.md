@@ -1,4 +1,4 @@
-# BIP
+# BIP [![Build Status](https://travis-ci.org/reedhaffner/BIP.svg?branch=master)](https://travis-ci.org/reedhaffner/BIP)
 
 Binary Inside Picture
 
